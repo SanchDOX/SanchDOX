@@ -2,7 +2,6 @@
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Best Practises
 - 💞️ I’m looking to collaborate on Embedded Firmware Development
-- 📫 How to reach me sanchitha.dias@oxit.com
 
 <!---
 SanchDOX/SanchDOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
